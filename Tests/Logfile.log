@@ -1,0 +1,16 @@
+2023-09-10 10:39:54,737 INFO : test_payment_scenario :Entering user name
+2023-09-10 10:39:54,858 INFO : test_payment_scenario :Entering password
+2023-09-10 10:39:54,999 INFO : test_payment_scenario :Submit User Data
+2023-09-10 10:40:00,117 INFO : test_payment_scenario :Receive the current balance
+2023-09-10 10:40:04,166 INFO : test_payment_scenario :Now payment request
+2023-09-10 10:46:47,011 INFO : test_payment_scenario :Entering user name
+2023-09-10 10:46:47,142 INFO : test_payment_scenario :Entering password
+2023-09-10 10:46:47,220 INFO : test_payment_scenario :Submit User Data
+2023-09-10 10:46:52,301 INFO : test_payment_scenario :Receive the current balance
+2023-09-10 10:46:56,054 INFO : test_payment_scenario :Now payment request
+2023-09-10 10:49:40,012 INFO : test_payment_scenario :Entering user name
+2023-09-10 10:49:40,204 INFO : test_payment_scenario :Entering password
+2023-09-10 10:49:40,304 INFO : test_payment_scenario :Submit User Data
+2023-09-10 10:49:45,388 INFO : test_payment_scenario :Receive the current balance
+2023-09-10 10:49:47,904 INFO : test_payment_scenario :Now payment request
+2023-09-10 10:50:10,120 INFO : test_payment_scenario :Payment test scenario passed
